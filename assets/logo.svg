@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="SocietyPro - apartment buildings icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#115E59"/>
+    </linearGradient>
+  </defs>
+  <!-- badge -->
+  <rect x="16" y="16" width="208" height="208" rx="52" fill="url(#bg)"/>
+  <!-- sun -->
+  <circle cx="184" cy="54" r="13" fill="#F5C877"/>
+  <!-- left building -->
+  <rect x="50" y="98" width="44" height="86" rx="4" fill="#CDEAE3"/>
+  <!-- centre building -->
+  <rect x="97" y="64" width="52" height="120" rx="4" fill="#FAF9F6"/>
+  <rect x="115" y="52" width="16" height="12" rx="3" fill="#F5C877"/>
+  <!-- right building -->
+  <rect x="152" y="110" width="40" height="74" rx="4" fill="#CDEAE3"/>
+  <!-- windows: centre -->
+  <g fill="#F59E0B">
+    <rect x="106" y="76" width="9" height="11" rx="2"/><rect x="119" y="76" width="9" height="11" rx="2"/><rect x="132" y="76" width="9" height="11" rx="2"/>
+    <rect x="106" y="95" width="9" height="11" rx="2"/><rect x="119" y="95" width="9" height="11" rx="2"/><rect x="132" y="95" width="9" height="11" rx="2"/>
+    <rect x="106" y="114" width="9" height="11" rx="2"/><rect x="119" y="114" width="9" height="11" rx="2"/><rect x="132" y="114" width="9" height="11" rx="2"/>
+    <rect x="106" y="133" width="9" height="11" rx="2"/><rect x="132" y="133" width="9" height="11" rx="2"/>
+  </g>
+  <!-- door -->
+  <rect x="117" y="152" width="13" height="32" rx="6" fill="#0F766E"/>
+  <!-- windows: left -->
+  <g fill="#E8A33D">
+    <rect x="59" y="110" width="9" height="11" rx="2"/><rect x="74" y="110" width="9" height="11" rx="2"/>
+    <rect x="59" y="129" width="9" height="11" rx="2"/><rect x="74" y="129" width="9" height="11" rx="2"/>
+    <rect x="59" y="148" width="9" height="11" rx="2"/><rect x="74" y="148" width="9" height="11" rx="2"/>
+  </g>
+  <!-- windows: right -->
+  <g fill="#E8A33D">
+    <rect x="160" y="121" width="9" height="11" rx="2"/><rect x="175" y="121" width="9" height="11" rx="2"/>
+    <rect x="160" y="140" width="9" height="11" rx="2"/><rect x="175" y="140" width="9" height="11" rx="2"/>
+    <rect x="160" y="159" width="9" height="11" rx="2"/><rect x="175" y="159" width="9" height="11" rx="2"/>
+  </g>
+  <!-- ground -->
+  <rect x="42" y="184" width="158" height="7" rx="3.5" fill="#0B4F4A"/>
+</svg>
